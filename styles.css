@@ -1,0 +1,22 @@
+body{
+    font-size: 100%;
+}
+h1{
+    background-color: burlywood;
+    font-size: 200%
+  
+}
+li{
+    color:rgb(10, 10, 22);
+    font-size: 150%;
+}
+.s{
+    color: black;
+    font-size: 100%;
+}
+p{
+    background-color:rgb(199, 202, 216);
+}
+code{
+    background-color:rgb(199, 202, 216);
+}
